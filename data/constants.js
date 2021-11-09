@@ -1,0 +1,13 @@
+export const TOAST_CLOSE_TIME = 4000;
+export const AUTH_COOKIE_EXPIRE_TIME = 1 / 24; // 1h
+export const DATE_RANGE_FROM = "2021-10";
+export const PAGE_SIZE = 10;
+export const MAX_NEW_LINES_LENGTH = 17;
+export const MAX_TITLE_LENGTH = 50;
+export const MAX_TEXT_LENGTH = 2000;
+export const MIN_TITLE_LENGTH = 2;
+export const MIN_TEXT_LENGTH = 3;
+export const SLUG_NUMBERS_LENGTH = 4;
+export const MIN_PASSWORD_LENGTH = 6;
+export const MAX_META_DESCRIPTION_LENGTH = 155;
+export const SAMPLE_DATA_LENGTH = 10;

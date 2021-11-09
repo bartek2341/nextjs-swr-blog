@@ -1,0 +1,49 @@
+{
+  "name": "Next.js blog",
+  "version": "1.0.0",
+  "description": "Next.js blog build with SWR infinite scroll",
+  "main": "index.js",
+  "author": "bartek2341",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bartek2341/nextjs-swr-blog"
+  },
+  "homepage": "https://nextjs-swr-blog.netlify.app/",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "postbuild": "next-sitemap --config next-sitemap.config.js"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.13.2",
+    "body-scroll-lock": "^3.1.5",
+    "connect-mongo": "^4.6.0",
+    "express-rate-limit": "^5.5.0",
+    "final-form": "^4.20.4",
+    "firebase": "^8.2.2",
+    "firebase-admin": "^9.7.0",
+    "js-cookie": "^3.0.1",
+    "mongodb": "^3.6.3",
+    "mongodb-core": "^3.2.7",
+    "next": "11.1.2",
+    "next-connect": "^0.10.2",
+    "next-sitemap": "^1.6.192",
+    "next-translate": "^1.1.0",
+    "nprogress": "^0.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-final-form": "^6.5.7",
+    "react-toastify": "^6.2.0",
+    "request-ip": "^2.1.3",
+    "speakingurl": "^14.0.1",
+    "styled-components": "^5.3.1",
+    "styled-reset": "^4.3.4",
+    "swr": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}

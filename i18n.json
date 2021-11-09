@@ -1,0 +1,9 @@
+{
+  "locales": ["en"],
+  "defaultLocale": "en",
+  "localeDetection": false,
+  "pages": {
+    "*": ["common"],
+    "/secret": ["secret"]
+  }
+}
