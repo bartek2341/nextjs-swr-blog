@@ -1,6 +1,6 @@
-# Next.js blog
+# Next.js-SWR-blog
 
-[**Next.js**](https://nextjs.org/) blog build with [**SWR**](https://swr.vercel.app/) infinite scroll, [**MongoDB**](https://www.mongodb.com/) and [**Firebase**](https://firebase.google.com/)
+[**Next.js**](https://nextjs.org/) blog build with [**SWR**](https://swr.vercel.app/), [**MongoDB**](https://www.mongodb.com/) and [**Firebase**](https://firebase.google.com/)
 
 :rocket: [**Live Demo**](https://nextjs-swr-blog.netlify.app/)
 

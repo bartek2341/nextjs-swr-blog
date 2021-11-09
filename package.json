@@ -1,7 +1,7 @@
 {
-  "name": "Next.js blog",
+  "name": "Next.js-SWR-blog",
   "version": "1.0.0",
-  "description": "Next.js blog build with SWR infinite scroll",
+  "description": "Next.js blog build with SWR, mongodb and firebase",
   "main": "index.js",
   "author": "bartek2341",
   "repository": {

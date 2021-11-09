@@ -1,6 +1,6 @@
 {
-  "siteDescription": "Next.js blog build with SWR infinite scroll",
-  "siteTitle": "Next.js blog",
+  "siteDescription": "Next.js blog build with SWR, mongodb and firebase",
+  "siteTitle": "Next.js-SWR-blog",
   "logoutError": "Logout error",
   "logout": "Log out",
   "bestOf": "Best of",
